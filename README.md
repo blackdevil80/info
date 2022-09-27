@@ -36,7 +36,7 @@ INSTALL PYTHON , PYTHON2 ,PYTHON3
 INSTALL info TOOL
 
     git clone https://github.com/blackdevil80/info.git
-    cd info.py
+    cd info
     chmod +x info.py
     
 RUN info TOOL
@@ -71,7 +71,7 @@ INSTALL PYTHON, PYTHON2, PYTHON3 IN TERMUX
 INSTALL info TOOL IN TERMUX
  
     $ git clone https://github.com/blackdevil80/info.git
-    $ cd info.py
+    $ cd info
     $ chmod +x info.py
     
 RUN PYTHON ON TERMUX
